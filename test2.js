@@ -1,1 +1,1 @@
-alert('art')
+alert('art test')
